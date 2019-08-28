@@ -1,0 +1,18 @@
+# Editor generated files #
+######################
+.vscode/*
+.idea
+.venv
+venv/
+ENV/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*.DS_Store
+
+
+# SQL Files #
+#############
+*.sql

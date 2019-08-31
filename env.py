@@ -1,0 +1,1 @@
+MONGO_URI = 'mongodb+srv://root:root@myfirstcluster-zvjoc.mongodb.net/task_manager?retryWrites=true&w=majority'
